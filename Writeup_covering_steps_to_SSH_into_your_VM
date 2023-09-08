@@ -1,14 +1,14 @@
-Before you can SSH into your VM, you need to have a virtual machine set up. This can be done using a virtualization tool like VirtualBox, VMware, or cloud-based services like AWS, Google Cloud, or Azure. Ensure that your VM is running and connected to the internet.
+#Before you can SSH into your VM, you need to have a virtual machine set up. This can be done using a virtualization tool like VirtualBox, VMware, or cloud-based services like AWS, Google Cloud, or Azure. Ensure that your VM is running and connected to the internet.#
 
-##'**Step 2: Install SSH Client**'
+**Step 2: Install SSH Client**
 Make sure you have an SSH client installed on your host machine. Most Unix-like operating systems (Linux, macOS) come with SSH pre-installed. If you're using Windows, you can use a tool like PuTTY or Windows Subsystem for Linux (WSL) to access SSH.
 
-###'**Step 3: Obtain VM IP Address**'
+**Step 3: Obtain VM IP Address**
 Find the IP address of your virtual machine. You can usually find this information in the VM management interface or by running ifconfig or ipconfig inside the VM terminal, depending on the operating system.
 
-####'**Step 4: Connect via SSH**'
+**Step 4: Connect via SSH**
 Now that you have your VM's IP address, open your terminal or command prompt on the host machine and use the following command to SSH into your VM:
 Use '''ssh username@VM-IP-Address'''
 
-- Add the file you want to upload to the staging area:
-'''git add filename'''
+* Add the file you want to upload to the staging area:
+`ssh username@VM-IP-Address`
