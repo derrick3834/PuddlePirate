@@ -1,6 +1,6 @@
-#Before you can SSH into your VM, you need to have a virtual machine set up. This can be done using a virtualization tool like VirtualBox, VMware, or cloud-based services like AWS, Google Cloud, or Azure. Ensure that your VM is running and connected to the internet.#
+# Before you can SSH into your VM, you need to have a virtual machine set up. This can be done using a virtualization tool like VirtualBox, VMware, or cloud-based services like AWS, Google Cloud, or Azure. Ensure that your VM is running and connected to the internet. #
 
-**Step 2: Install SSH Client**
+**Step 2: Install SSH Client** 
 Make sure you have an SSH client installed on your host machine. Most Unix-like operating systems (Linux, macOS) come with SSH pre-installed. If you're using Windows, you can use a tool like PuTTY or Windows Subsystem for Linux (WSL) to access SSH.
 
 **Step 3: Obtain VM IP Address**
@@ -14,3 +14,5 @@ Use '''ssh username@VM-IP-Address'''
 ```
 ssh username@VM-IP-Address
 ```
+
+
