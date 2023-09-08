@@ -11,4 +11,6 @@ Now that you have your VM's IP address, open your terminal or command prompt on 
 Use '''ssh username@VM-IP-Address'''
 
 * Add the file you want to upload to the staging area:
-`ssh username@VM-IP-Address`
+```
+ssh username@VM-IP-Address
+```
