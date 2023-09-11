@@ -1,3 +1,4 @@
+
 *** A reverse shell is a type of shell (command-line interface) that allows an attacker to establish a connection to a compromised system from a remote location. It is often used in cybersecurity and hacking scenarios, both for malicious purposes and legitimate security testing. Here's how it typically works:***
 
 1. Compromising a Target: First, an attacker needs to gain unauthorized access to a target system. This can be done through various means, such as exploiting vulnerabilities, social engineering, or using previously planted malware.
