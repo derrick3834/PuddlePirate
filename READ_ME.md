@@ -8,4 +8,4 @@ Ethical Hacking and Penetration Testing: Ethical hackers, also known as penetrat
 Link up with me, I'm always interested in working with new people.
 [LinkedIn](https://www.linkedin.com/feed/)
 
-Updated 9/12/2023
+Updated 9/13/2023
